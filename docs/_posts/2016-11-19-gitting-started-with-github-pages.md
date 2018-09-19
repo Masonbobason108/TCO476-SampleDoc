@@ -12,7 +12,7 @@ This post describes how to configure your github repo to use the /docs folder as
 I am writing this to complete a task. Wahoo!
 
 ![Here is my super duper image.]({{site.baseurl}}/assets/images/DocsFolder.png)
-
+^^Here is an image^^
 [Here is my super duper link to youtube!](https://www.youtube.com)
 
 1. In the repo's [**Settings**]({{ site.baseurl }}/pages/RepoSettings.html), in the [**GitHub Pages**]({{ site.baseurl }}/pages/GitHubWSettings.html) section, set (or ensure that) the doc source to _none_.
