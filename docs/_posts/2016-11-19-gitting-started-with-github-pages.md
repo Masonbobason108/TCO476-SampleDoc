@@ -13,7 +13,7 @@ I am writing this to complete a task. Wahoo!
 
 ![Here is my super duper image.]({{site.baseurl}}/assets/images/docsfolder.png)
 
-[Here is my super duper link.](https://www.youtube.com)
+[Here is my super duper link to youtube.](https://www.youtube.com)
 
 1. In the repo's [**Settings**]({{ site.baseurl }}/pages/RepoSettings.html), in the [**GitHub Pages**]({{ site.baseurl }}/pages/GitHubWSettings.html) section, set (or ensure that) the doc source to _none_.
 
