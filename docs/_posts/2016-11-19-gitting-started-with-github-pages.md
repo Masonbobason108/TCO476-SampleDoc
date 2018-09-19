@@ -11,7 +11,7 @@ This post describes how to configure your github repo to use the /docs folder as
 
 I am writing this to complete a task. Wahoo!
 
-![Here is my super duper image.]({{site.baseurl}}/assets/images/docsfolder.png)
+![Here is my super duper image.]({{site.baseurl}}/assets/images/DocsFolder.png)
 
 [Here is my super duper link to youtube!](https://www.youtube.com)
 
