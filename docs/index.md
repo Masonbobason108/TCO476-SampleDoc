@@ -7,6 +7,8 @@ layout: default
 The **TCO476-SampleDoc** project tests the github pages documentation for a github repo.
 
 
+[About Me](https://masonbobason108.github.io/TCO476-SampleDoc/pages/About_Me.html)
+
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
